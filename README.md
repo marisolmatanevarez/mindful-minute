@@ -1,3 +1,7 @@
+python: have python 3 installed, run ./install.sh to set up python virtual environment
+
+`source env/bin/activate` each time to access the python packages we need
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
