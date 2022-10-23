@@ -8,5 +8,3 @@ def create_app():
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
     app.db = DB(app)
-
-    #db.init_app(app)
